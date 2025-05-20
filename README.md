@@ -72,4 +72,4 @@ void main( )
 ![image](https://github.com/user-attachments/assets/c467aa4a-4bb3-41bd-849c-758ad9796301)
 
 **Result :**
-Thus the DDA algorithm to draw a line using a c coding is implemented successfully.
+Thus, the DDA algorithm to draw a line using a c coding is implemented successfully.
